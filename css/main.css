@@ -1,3 +1,44 @@
 h1 {
-    color: red;
-}
+    color: #2A450B;
+    font-family: 'Merriweather', serif;
+    font-size: 60px;
+  }
+  
+  body {
+    background-color: #FEFBE7;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 40px;
+    color: #365D30;
+    font-family: 'Merriweather', serif;
+    margin-top: 10;
+    border: 10px solid orange;
+    padding: 15px 15px 15px 15px; 
+  }
+  
+  .fancy {
+   box-sizing: border-box;
+   width: 1000px;
+   margin: 20px auto; 
+  }
+  
+  .button {
+    padding: 10px 15px;
+    boder-radius: 5px;
+    background-color: #AADC70;
+    color: black;
+    text-align: center;
+    font-size: 14px;
+    display: inline block; 
+    }
+  
+  ul {
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    text-align: center;
+    list-style-position: inside;
+  }
